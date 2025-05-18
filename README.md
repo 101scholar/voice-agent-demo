@@ -10,7 +10,7 @@
 
 ```bash
 git clone https://github.com/101scholar/voice-agent-local.git
-cd
+cd voice-agent-local
 uv sync
 uv run main.py
 ```
