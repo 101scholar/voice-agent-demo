@@ -9,8 +9,8 @@
 3. 在 `.env` 中设置 API 密钥
 
 ```bash
-git clone https://github.com/101scholar/voice-agent-local.git
-cd voice-agent-local
+git clone https://github.com/101scholar/voice-agent-demo.git
+cd voice-agent-demo
 uv sync
 uv run main.py
 ```
